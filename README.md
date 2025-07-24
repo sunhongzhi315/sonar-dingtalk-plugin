@@ -26,6 +26,7 @@ docker run \
 xbmlz/sonar-dingtalk-plugin
 ```
 
+
 #### 二进制安装
 
 根据对应操作系统下载 [Release](https://github.com/xbmlz/sonar-dingtalk-plugin/releases)文件，解压启动即可。
