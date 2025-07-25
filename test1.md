@@ -5,7 +5,7 @@ OnSpace’s seamless Supabase integration enables you to control every aspect of
 
 This consolidated workflow revolutionizes how applications are built: beginners can leverage OnSpace’s smart recommendations and intuitive guidance to create professional-grade apps, while expert developers can instantly access Supabase’s full suite of advanced features whenever complex functionality is required.
 
-​
+
 ### Overview
 
 OnSpace seamlessly integrates with Supabase, the leading open-source Firebase alternative that delivers enterprise-grade PostgreSQL databases with real-time capabilities, user authentication, file storage, and serverless functions. This integration transforms your OnSpace app with instant access to a production-ready backend infrastructure—no boilerplate code or server configuration required.
